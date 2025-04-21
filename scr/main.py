@@ -3,7 +3,7 @@ from random import randint
 number = randint(1, 200)
 found = False
 a = 0
-print("Welcome to GUESS THE NUMBER \n\n")
+print("\t\tWelcome to GUESS THE NUMBER \n")
 
 while found == False:
     try:
